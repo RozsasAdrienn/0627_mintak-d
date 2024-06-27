@@ -1,0 +1,6 @@
+consol parancsok:
+pip install flask
+pip install flask-cors
+
+api indítása:
+python .\flask-api.py
